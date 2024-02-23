@@ -5,7 +5,7 @@ media: https://www.youtube.com/watch?v=pgErjQSQQsg
 tags: ["research"]
 speakers: ["Jonas Nick"]
 categories: ["club"]
-date: 2020-04-13
+date: 2020-04-01
 ---
 ## Introduction to credentials. / Selective signing of attributes. / Range proof. / "Rethinking Public Key Infrastructures and Digital Certificates" (Stefan Brands, 1999)
 
