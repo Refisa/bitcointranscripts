@@ -2,7 +2,7 @@
 title: "Anonymous Credentials"
 transcript_by: Refisa via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=pgErjQSQQsg
-tags: ["research","bls-signatures"]
+tags: ["research"]
 speakers: ["Jonas Nick"]
 categories: ["club"]
 date: 2020-04-13
